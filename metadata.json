@@ -1,0 +1,8 @@
+{
+  "name": "Clinique Pédiatrique Numérique",
+  "description": "Une application mobile pour les patients d'un pédiatre tunisien, visant à fidéliser et attirer de nouveaux patients. Elle offre la prise de rendez-vous, la messagerie, une bibliothèque de contenu, et un carnet de santé numérique pour les enfants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
